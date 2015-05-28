@@ -1,4 +1,4 @@
-# Apache httpclient fluent API with liberal SSL certs policy
+# Apache httpclient Fluent API with liberal SSL certs policy
 
 Slightly modified [Apache HTTPClient API](https://hc.apache.org/httpcomponents-client-ga/tutorial/html/fluent.html)
 
