@@ -47,5 +47,5 @@ mvn install
           <groupId>org.apache.httpcomponents</groupId>
           <artifactId>fluent-hc-nossl-checks</artifactId>
           <version>4.4.1</version>
-<\dependency>          
+</dependency>          
 ```          
